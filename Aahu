@@ -1,0 +1,46 @@
+indexhtml<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Heaven - Make Money Online</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
+        .hero { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 20px; text-align: center; }
+        .hero h1 { font-size: 48px; margin: 0; }
+        .btn { background: #ff4757; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; }
+        .section { padding: 40px 20px; max-width: 1200px; margin: 0 auto; }
+        .cards { display: flex; gap: 20px; flex-wrap: wrap; }
+        .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex: 1; min-width: 250px; }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>Code Heaven</h1>
+        <p>Your launchpad to make money online — no coding needed.</p>
+        <a href="                                            
+    </div>
+
+    <div class="section">
+        <h2>How It Works</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>1. Pick Your Path</h3>
+                <p>Freelance, content, reselling — we got you.</p>
+            </div>
+            <div class="card">
+                <h3>2. Follow Guides</h3>
+                <p>Step-by-step, no fluff, just results.</p>
+            </div>
+            <div class="card">
+                <h3>3. Start Earning</h3>
+                <p>Track, scale, profit — we’ll guide you.</p>
+            </div>
+        </div>
+    </div>
+
+    <footer style="background: #333; color: white; text-align: center; padding: 20px;">
+        <p>&copy; 2026 Code Heaven | <a href="#" style="color: white;">Contact</a></p>
+    </footer>
+</body>
+</html>
